@@ -5,10 +5,10 @@ The Coffee Sales Dashboard provides a comprehensive view of sales trends, custom
 Local coffeeshop wants to create a sales report for the year 2019 to 2022. So that, the manager of coffeeshop can understand their customers and grow more sales in 2023-2025.
 
 ## Dataset used
-- <a href="https://github.com/BaronguyenVinasu/Adidas-Sales-Data-Analysis-2020-2021-/blob/03cc8007a7c9c7fac07bb7280d40df96d8e5458b/Adidas%20US%20Sales%20Datasets.xlsx">Dataset</a>
+- <a href="https://github.com/BaronguyenVinasu/Coffee-Orders-Data-Analysis-and-Financial-Modeling/blob/main/Coffee%20Orders%20Data_My%20work.xlsx">Dataset</a>
 
 
-- Dashboard Interaction <a href="https://github.com/BaronguyenVinasu/Adidas-Sales-Data-Analysis-2020-2021-/blob/9b20f6d6b466283e69f2a6497b3211e56b2922c3/2%20dashboards%20Interaction">View Dashboard</a>
+- Dashboard Interaction <a href="Mar 8 Screenshot from CloudConvert.jpg">View Dashboard</a>
 
 ## Process
 ### Data Verification:
@@ -58,8 +58,9 @@ Built pivot tables to answer key questions:
 
 
 ## Dashboard
-![Screenshot 2025-02-02 at 2 20 27 AM](https://github.com/user-attachments/assets/57bf348a-2ac7-4cf5-b3c2-b7da2ffe7d43)
-<img width="1419" alt="Screenshot 2025-02-02 at 3 01 11 AM" src="https://github.com/user-attachments/assets/da4bfb94-d6e8-439e-83ff-461e834d3417" />
+![Mar 8 Screenshot from CloudConvert.jpg](https://github.com/BaronguyenVinasu/Coffee-Orders-Data-Analysis-and-Financial-Modeling/blob/main/Mar%208%20Screenshot%20from%20CloudConvert.jpg
+)
+
 
 ## Project Insights
 ### 1. Sales Trends Over Time
